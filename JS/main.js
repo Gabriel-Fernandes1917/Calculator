@@ -1,9 +1,34 @@
 //alert("welcome");
 
-function calculator(){
+function calculatorAdd(){
+
+    
+   var valule1 = document.getElementById("Space1").value;
+   var valule2 = document.getElementById("Space2").value;
+   var result = parseInt(valule1) + parseInt(valule2);   
+
+   document.querySelector('#Result').innerHTML = result;
 
    
-   var valule1 = document.createElement("Space1");
-   alert(valule1);
 
+}
+
+function calculatorSub(){
+
+   var value1 = document.getElementById("Space1").value;
+   var value2 = document.getElementById("Space2").value;
+   var result = value1 - value2;
+
+   document.querySelector('#Result').innerHTML = result;
+
+
+}
+
+function calculatorMult(){
+
+   var value1 = document.getElementById("Space1").value;
+   var value2 = document.getElementById("Space2").value;
+   var result = value1 * value2;
+   
+   document.querySelector('#Result').innerHTML = result;
 }
