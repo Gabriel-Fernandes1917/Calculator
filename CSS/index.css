@@ -27,20 +27,46 @@ padding: 1%;
 }
 .BodyTheCalculator{
 
-    margin-top: 5%;
+    
     background-color: gainsboro;
     width: 60%;
     height: 40%;
+    margin: 0 auto;
+    
+    
 
 }
-#SpaceForValue{
+#Space1{
     background-color: gainsboro;
-    margin-left: 5%;
-    margin-bottom: 30%;
-    width: 50px;
-    height: 50px;
+    margin-left: 10%;
+    width: 20px;
+    height: 20px;
+    border-style: solid;
+   
+}
+#Space2{
+    background-color: gainsboro;
+    margin-left: 2%;
+    width: 20px;
+    height: 20px;
+    border-style: solid;
+ 
+
+}
+#Space3{
+    background-color: gainsboro;
+    margin-left: 2%;
+    width: 20px;
+    height: 20px;
     border-style: solid;
 
+
+}
+#button{
+    margin-left: 10%;
+    border-style: solid;
+    background-color: gainsboro;
+    margin-top: 1%;
 }
 
 .BottomBanner{
