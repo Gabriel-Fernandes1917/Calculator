@@ -40,16 +40,16 @@ body{
 #Space1{
     background-color: gainsboro;
     margin-left: 10%;
-    width: 20px;
-    height: 20px;
+    width: 45px;
+    height: 30px;
     border-style: solid;
    
 }
 #Space2{
     background-color: gainsboro;
     margin-left: 0%;
-    width: 20px;
-    height: 20px;
+    width: 45px;
+    height: 30px;
     border-style: solid;
  
 
@@ -57,8 +57,8 @@ body{
 #Result{
     background-color: gainsboro;
     margin-left: 0%;
-    width: 20px;
-    height: 20px;
+    width: 45px;
+    height: 40px;
     border-style: solid; 
     border-color: black;
     
@@ -66,14 +66,14 @@ body{
 
 }
 #buttonAdd{
-    margin-left: 10%;
+    margin-left: 0%;
     border-style: solid;
     background-color: gainsboro;
     margin-top: 1%;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
-    width: 20px;
-    height: 20px;
+    width: 40px;
+    height: 40px;
 }
 #button-{
     margin-left: 0%;
@@ -82,29 +82,30 @@ body{
     margin-top: 1%;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
-    width: 20px;
-    height: 20px;
+    width: 40px;
+    height: 40px;
 }
 #buttonMult{
-    margin-left: 10%;
-    border-style: solid;
-    background-color: gainsboro;
-    margin-top: 1%;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 14px;
-    width: 20px;
-    height: 20px;
-
-}
-#buttonDiv{
     margin-left: 0%;
     border-style: solid;
     background-color: gainsboro;
     margin-top: 1%;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
-    width: 20px;
-    height: 20px;
+    width: 40px;
+    height: 40px;
+
+}
+#buttonDiv{
+    margin-right: 18%;
+    border-style: solid;
+    background-color: gainsboro;
+    margin-top: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    width: 40px;
+    height: 40px;
+    
 
 }
 #buttonClear{
@@ -114,8 +115,8 @@ body{
     margin-top: 1%;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
-    width: 40px;
-    height: 20px;
+    width: 45px;
+    height: 40px;
 
 
 }
