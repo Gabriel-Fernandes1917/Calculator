@@ -107,6 +107,18 @@ body{
     height: 20px;
 
 }
+#buttonClear{
+    margin-left: 0%;
+    border-style: solid;
+    background-color: gainsboro;
+    margin-top: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    width: 40px;
+    height: 20px;
+
+
+}
 
 .BottomBanner{
 

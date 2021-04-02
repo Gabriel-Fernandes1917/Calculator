@@ -43,3 +43,10 @@ function calculatorDiv(){
 
 
 }
+
+function calculatorClear(){
+
+   window.location.href = ("index.html");
+
+
+}
