@@ -32,3 +32,14 @@ function calculatorMult(){
    
    document.querySelector('#Result').innerHTML = result;
 }
+
+function calculatorDiv(){
+
+   var value1 = document.getElementById("Space1").value;
+   var value2 = document.getElementById("Space2").value;
+   var result = value1 / value2;
+
+   document.querySelector('#Result').innerHTML = result;
+
+
+}
